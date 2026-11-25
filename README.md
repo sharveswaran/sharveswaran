@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Sharveswaran 👋
 
-<!--
-**sharveswaran/sharveswaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer
 
-Here are some ideas to get you started:
+I'm passionate about building responsive and user-friendly web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Technical Skills
+
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- React.js
+- Node.js
+- PHP
+- MySQL
+- MongoDB
+
+## 💻 Projects
+
+- E-commerce Website
+- Personal Portfolio
+- Student Management System
+
+## 🌐 Connect With Me
+
+- Portfolio: https://sharveswaran.techmerise.com/
+- LinkedIn: https://www.linkedin.com/in/sharveswaran-m-560a61451/
+- Email: sharveswaran777@gmail.com
+- GitHub: https://github.com/sharveswaran
+
+---
+⭐ Thanks for visiting my profile!
